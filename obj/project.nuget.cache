@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jb/hsBacnANSr3wVfL4okoyDZrwEmDMt6GDPaXuCv5ra7bxEsxrkjC6za2sBqaM5PI/BtnhogjeAl2FL70HKXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\v-pkothaveer\\Source\\Repos\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v-pkothaveer\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.9\\microsoft.windowsdesktop.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\v-pkothaveer\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.9\\microsoft.netcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\v-pkothaveer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.9\\microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\v-pkothaveer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.9\\microsoft.netcore.app.host.win-x64.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
